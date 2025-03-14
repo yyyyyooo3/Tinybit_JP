@@ -1,4 +1,4 @@
-# Tiny:bit
+# Tiny:bit SSI編集（日本語化）
 
 Extension for Yahboom Tiny:bit V2.0.3
 
