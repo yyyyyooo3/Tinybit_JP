@@ -20,10 +20,10 @@
   "Tinybit.enColor.Pinkish|block": "ぴんく",
   "Tinybit.enColor.Yellow|block": "黄色",
   
-  "Tinybit.enPos.LeftState|block": "左边",
-  "Tinybit.enPos.RightState|block": "右边",
-  "Tinybit.enLineState.White|block": "白线",
-  "Tinybit.enLineState.Black|block": "黑线",
+  "Tinybit.enPos.LeftState|block": "左が",
+  "Tinybit.enPos.RightState|block": "右が",
+  "Tinybit.enLineState.White|block": "白い線",
+  "Tinybit.enLineState.Black|block": "黒い線",
 
   
   "Tinybit.CarState.Car_Run|block": "前",
